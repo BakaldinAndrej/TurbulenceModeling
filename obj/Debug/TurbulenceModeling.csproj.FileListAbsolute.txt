@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\bin\Debug\TurbulenceModeling.exe.config
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\bin\Debug\TurbulenceModeling.exe
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\bin\Debug\TurbulenceModeling.pdb
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\obj\Debug\TurbulenceModeling.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\obj\Debug\TurbulenceModeling.MainForm.resources
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\obj\Debug\TurbulenceModeling.Properties.Resources.resources
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\obj\Debug\TurbulenceModeling.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\obj\Debug\TurbulenceModeling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\obj\Debug\TurbulenceModeling.exe
+C:\Users\Admin\source\repos\TurbulenceModeling\TurbulenceModeling\obj\Debug\TurbulenceModeling.pdb
